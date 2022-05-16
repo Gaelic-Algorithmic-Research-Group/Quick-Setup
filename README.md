@@ -1,18 +1,16 @@
-# Gaelic Algorithmic Research Group Standard Operating Procedures
+# Gaelic Algorithmic Research Group (Quick Setup)
 
-Standard operating procedures for Gaelic Algorithmic Research Group projects:
+Quick Setup for Gaelic Algorithmic Research Group projects:
 
-<https://Gaelic Algorithmic Research Group-ucsb.github.io/SOP/>
+<https://gaelic-algorithmic-research-group.github.io/Quick-Setup/>
 
 
 ## Table of Contents
 
 1. Project Management  
     - Google Calendar
-    - Zoom
-    - Slack
-    - Airtable
-    - Google Shared Drive
+    - Teams
+    - OneDrive
     - Git and GitHub
     - Zotero
 2. File Structure
@@ -34,7 +32,7 @@ Standard operating procedures for Gaelic Algorithmic Research Group projects:
     - Exploratory Data Analysis
 5. High Performance Computing
     - Google Cloud Platform
-    - UCSB Server Clusters
+    - Eddie Server Clusters
 6. Reports and Publications
     - Gaelic Algorithmic Research Group Affiliation
     - Reports
