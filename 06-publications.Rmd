@@ -5,14 +5,7 @@ This section describes best practices related to Gaelic Algorithmic Research Gro
 
 ## Gaelic Algorithmic Research Group Affiliation  
 
-
-Since Gaelic Algorithmic Research Group is joint between MSI and Bren and also its own research entity, we recommend Gaelic Algorithmic Research Group staff use the following affiliations for any Gaelic Algorithmic Research Group publication:
-
-1. Marine Science Institute, University of California, Santa Barbara, Santa Barbara, CA, USA
-2. Bren School of Environmental Science & Management, University of California, Santa Barbara, Santa Barbara, CA, USA
-3. Environmental Market Solutions Lab, University of California, Santa Barbara, Santa Barbara, CA, USA
-
-Note that journals may list affiliation addresses slightly different than what is listed above.
+TODO 
 
 ## Reports  
 
@@ -141,5 +134,4 @@ Now, simply save and close the file; you'll be prompted back to your command lin
 
 ## Sharing public data, Shiny apps, and tools on our website    
 
-Any time Gaelic Algorithmic Research Group develops publicly available datasets, Shiny apps, or tools, we would love to share these on the Gaelic Algorithmic Research Group website. Any time you release a publicly available dataset, Shiny app, or other tool, please Slack or email Erin O'Reilly (eoreilly@ucsb.edu) the following information: name of the dataset app or tool, link, date published, and the Gaelic Algorithmic Research Group project it is associated with.
-
+Any time Gaelic Algorithmic Research Group develops publicly available datasets, Shiny apps, or tools, we would love to share these on the Gaelic Algorithmic Research Group website. Any time you release a publicly available dataset, Shiny app, or other tool, please let us know. Will's email address (w.lamb@ed.ac.uk)

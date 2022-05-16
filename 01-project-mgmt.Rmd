@@ -297,7 +297,7 @@ Most of tutorials listed above include detailed instructions on how to install G
 
 - Notes:
 
-    - use your @ucsb.edu email
+    - use (or link to) your @ed.ac.uk email
     - make sure you remember your **username** and **password**, you'll need this later
 
 ![Landing page for GitHub](images/github_create_account.png)
@@ -306,7 +306,7 @@ Since GitHub is a company, and is used by many different types of organizations 
 
 Good news! Gaelic Algorithmic Research Group qualifies as an educational organization through the GitHub Education program, and as a UCSB staff member you qualify for the individual educational discount. So, once you've signed up for a free account on GitHub... 
 
-2. Go to the [GitHub Education](https://education.github.com/) page and register as a researcher (Note: this is why you should use your @ucsb.edu email for step 1).
+2. Go to the [GitHub Education](https://education.github.com/) page and register as a researcher (Note: this is why you want to use your @ed.ac.uk email for step 1).
 
 ![Landing page for GitHub Education](images/github_education.png) 
 
