@@ -23,7 +23,7 @@ Transparency in authors’ contribution is a critical component of open science.
 
 Generally, Gaelic Algorithmic Research Group researchers should be prepared to share a public GitHub repository (see Section 6.4) and a Dryad data repository with publications. The repositories contain code scripts and data (respectively) needed to conduct the study. Increasingly, journals are requiring both sets of documentation at the point of submission or publication. 
 
-Dryad is an open-access repository of research data that makes data searchable, freely accessible, and citable. Data repositories do not need to be associated with a publication. Dryad is [free for UCSB affiliates](https://www.library.ucsb.edu/research-data-services/repository) with a UCSB NetID. The following steps document the process for creating a Dryad repository. Review Dryad’s [Best Practices website](https://datadryad.org/stash/best_practices#organize) for more useful information.
+Dryad is an open-access repository of research data that makes data searchable, freely accessible, and citable. Data repositories do not need to be associated with a publication. Dryad is [free for Eddie affiliates](https://www.library.ucsb.edu/research-data-services/repository) with a Eddie NetID. The following steps document the process for creating a Dryad repository. Review Dryad’s [Best Practices website](https://datadryad.org/stash/best_practices#organize) for more useful information.
 
 1. If you do not already have one, visit the [ORCID site](https://orcid.org/) to obtain an ORCID identifier. You will need this to deposit data on Dryad.
 2. Use your ORCID username and password to sign into [Dryad](https://datadryad.org/stash/sessions/choose_login).

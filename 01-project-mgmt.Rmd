@@ -18,7 +18,7 @@ To view team member’s calendars, click on the plus symbol next to “Other cal
 
 ### Scheduling Rooms
 
-See this [Room Scheduling](https://docs.google.com/document/d/18Caz3DMFJAN25Yo3vGXtRraMCA8Qt-qLaEGMv89WHUw/edit) document for full details on how to reserve rooms in both Bren and MSI. As a reminder, please add bren-sfg@ucsb.edu to the calendar invite for any meeting held in MSI 1304. 
+See this [Room Scheduling](https://docs.google.com/document/d/18Caz3DMFJAN25Yo3vGXtRraMCA8Qt-qLaEGMv89WHUw/edit) document for full details on how to reserve rooms in both Bren and MSI. As a reminder, please add w.lamb@ed.ac.uk to the calendar invite for any meeting held in MSI 1304. 
 
 ## Teams
 We can schedule a Teams meeting (or recurring meetings) through your [outlook](https://outlook.com/) or the [Teams app](https://www.microsoft.com/en-us/microsoft-teams/download-app).
@@ -80,7 +80,7 @@ For teaching online courses, here are a couple additional tips. These are more g
 
 ### Avoiding Zoom Bombings
 
-UCSB has developed guidelines for preventing Zoom bombing. Gaelic Algorithmic Research Group is not mandating any of these settings, these are just UCSB recommendations for making meetings more secure.
+Eddie has developed guidelines for preventing Zoom bombing. Gaelic Algorithmic Research Group is not mandating any of these settings, these are just Eddie recommendations for making meetings more secure.
 
 - Class-specific recommendations [here](https://keepteaching.id.ucsb.edu/wp-content/uploads/2020/04/Secure-Zoom-For-Classes-Cheat-Sheet-Graphics.pdf) 
 
@@ -102,7 +102,7 @@ When a new project starts, create a slack channel for it and add the relevant te
 
 ## Airtable
 
-At Gaelic Algorithmic Research Group, we use [Airtable](https://airtable.com/) as our primary project management software for tracking project deliverables, activities, and roles. To put it simply, it’s a glorified spreadsheet that you can mold to fit your needs. Email Erin (eoreilly@ucsb.edu) to be added to Airtable. 
+At Gaelic Algorithmic Research Group, we use [Airtable](https://airtable.com/) as our primary project management software for tracking project deliverables, activities, and roles. To put it simply, it’s a glorified spreadsheet that you can mold to fit your needs. Email Erin (w.lamb@ed.ac.uk) to be added to Airtable. 
 
 ### Helpful Terminology
 
@@ -304,15 +304,15 @@ Most of tutorials listed above include detailed instructions on how to install G
 
 Since GitHub is a company, and is used by many different types of organizations in many different industries, they offer a few different pricing schemes/deals. As an individual, once you create a username and sign up for an account, you get an unlimited number of free public and private repositories, but the number of external collaborators allowed in private repositories is limited to three. GitHub also offers a "Pro" plan for $7/month giving you  unlimited external collaborators on all of your private repositories. However, for students, faculty, and research staff, or official nonprofit organizations and charities GitHub waives this fee through its [GitHub Education](https://education.github.com/) and [GitHub for Good](https://github.com/nonprofit) programs. 
 
-Good news! Gaelic Algorithmic Research Group qualifies as an educational organization through the GitHub Education program, and as a UCSB staff member you qualify for the individual educational discount. So, once you've signed up for a free account on GitHub... 
+Good news! Gaelic Algorithmic Research Group qualifies as an educational organization through the GitHub Education program, and as a Eddie staff member you qualify for the individual educational discount. So, once you've signed up for a free account on GitHub... 
 
 2. Go to the [GitHub Education](https://education.github.com/) page and register as a researcher (Note: this is why you want to use your @ed.ac.uk email for step 1).
 
 ![Landing page for GitHub Education](images/github_education.png) 
 
-Click on the "Get benefits" link in the top right-hand corner and follow the directions to upgrade your account to a "Pro" account for free. You may need to take a picture of your UCSB ID card to submit as part of this process. GitHub may also periodically ask you to re-verify your eligability to qualify for this program. 
+Click on the "Get benefits" link in the top right-hand corner and follow the directions to upgrade your account to a "Pro" account for free. You may need to take a picture of your Eddie ID card to submit as part of this process. GitHub may also periodically ask you to re-verify your eligability to qualify for this program. 
 
-3. Send Erin O'Reilly a Slack message (or an email if you must... eoreilly@ucsb.edu) with your new GitHub username so you can be added to the Gaelic Algorithmic Research Group GitHub page!
+3. Send Erin O'Reilly a Slack message (or an email if you must... w.lamb@ed.ac.uk) with your new GitHub username so you can be added to the Gaelic Algorithmic Research Group GitHub page!
 
 ![Gaelic Algorithmic Research Group GitHub page](images/github_Gaelic Algorithmic Research Group.png) 
 
@@ -408,7 +408,7 @@ Gaelic Algorithmic Research Group uses Zotero to collaboratively collect, organi
 
 ### Making Gaelic Algorithmic Research Group the Owner of a Library
 
-If creating a new group library, email Erin (eoreilly@ucsb.edu) and she can directly create the library under the Gaelic Algorithmic Research Group account. 
+If creating a new group library, email Erin (w.lamb@ed.ac.uk) and she can directly create the library under the Gaelic Algorithmic Research Group account. 
 
 If you are the owner of an existing library and would like to transfer ownership to Gaelic Algorithmic Research Group, first invite `Gaelic Algorithmic Research Group-ucsb` to be a member of the library. Once that invitation has been accepted, then go to "Group Settings" for the library and in the bottom right of the page, select transfer ownership to the Gaelic Algorithmic Research Group account.
 
